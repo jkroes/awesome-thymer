@@ -24,31 +24,34 @@ Install and use plugins at your own risk. It may also be wise to play around wit
 
 App plugins extend the entire Thymer application with global features.
 
+- [App Lock](https://github.com/dantesxj/ThymerAppLockPlugin) - PIN-based Thymer app lock plugin with inactivity auto-lock, manual lock controls, and a hardened sign-out flow.
 - [Backreferences](https://github.com/harpreetchima/thymer-backreferences) - Thymer backreferences footer plugin
 - [Bulk Move Notes](https://github.com/RobbK17/thymer-bulkmove) - Bulk move notes from one collection to another
 - [Cadence](https://github.com/harpreetchima/thymer-cadence) - Daily Note into a cadence system with optional weekly, monthly, quarterly, and yearly notes
+- [Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
+- [Clipboard Parser](https://github.com/RobbK17/thymer-clipboard-parser) - Quickly create Thymer pages from clipboard content
 - [Daily Focus (tasks)](https://github.com/niklashog/Thymer-plugins/tree/main/DailyFocus) - A workspace-wide task dashboard that aggregates tasks from across your entire workspace.
 - [Enhanced Search](https://github.com/RobbK17/thymer-enhanced-search) - Cross-collection record viewer with Search, Duplicates, and Compare modes
 - [Flashcards](https://github.com/talal/thymer-flashcards) - Create and review flashcards using spaced repetition ([FSRS](https://github.com/open-spaced-repetition/ts-fsrs))
 - [Google Drive Previewer](https://github.com/Bambouri/Thymer-Google-Drive-Previewer) - Allows you to preview Google Drive links inside of Thymer
 - [Graph View](https://github.com/ed-nico/thymer-graph-view) - Renders an interactive force-directed graph of all your notes, references, and tags
+- [Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualisation with rainbow-colored indent guides and workflowy style bulleting
 - [Journal Image Gallary](https://github.com/dantesxj/journal-image-gallery) - renders date-matched images from one or more collections.
 - [On This Day](https://github.com/ed-nico/thymer-on-this-day) - Shows your journal entries from this day in previous years
+- [Notes Management Plugin](https://github.com/RobbK17/thymer-notes-management) - Unified Thymer custom panel for bulk note operations and advanced tag workflows.
 - [PDF Export](https://github.com/gitdaveuk/thymer-pdf-export-plugin) - Export notes to PDF
 - [Pomodoro Timer](https://github.com/gitdaveuk/thymer-pomodoro-timer) - A pomodoro counter for Thymer
 - [Property Auto-Initiator](https://github.com/parham-shafti/thymer-property-auto-initiator) - Auto populates properties on newly created records
 - [Quick Capture](https://github.com/gitdaveuk/thymer-quick-capture-plugin) - Quickly capture notes from anywhere
 - [Readwise Sync & Daily Highlights Footer](https://github.com/dantesxj/ThymerReadwiseSyncwithDailyFooter) - Sync Readwise Highlights
 - [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
+- [Reference Counter](https://github.com/harpreetchima/thymer-reference-counter) - Adds inline reference counters next to record references in the editor
 - [Related Notes](https://github.com/ed-nico/thymer-related-notes) - Discovers related notes based on content similarity, shared references, and tags
 - [Save to Thymer](https://github.com/zakblf/save-to-thymer) - Save web pages to Thymer collections with custom templates and property mapping
 - [SyncHub](https://github.com/riclib/thymer-synchub) - Sync architecture for external data sources
+- [Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
 - [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
-- [Thymer Cadence](https://github.com/harpreetchima/thymer-cadence) - turns a standard Daily Notes journal into a cadence system with optional weekly, monthly, quarterly, and yearly notes.
-- [Thymer Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
-- [Thymer Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
-- [Thymer Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
 - [Today's Notes](https://github.com/dantesxj/ThymerTodaysNotesFooter) - Footer on journal entries showing records whose date field matches
 - [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for the current page
 - [Workflow(y) Search](https://github.com/RobbK17/thymer-workflow-search) - Workflowy inspired incremental search plugin
