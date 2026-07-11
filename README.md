@@ -74,12 +74,14 @@ App plugins extend the entire Thymer application with global features.
 
 #### Text & Editor Enhancements
 
+- [Collection Colors](https://github.com/akaready/thymer-collection-colors) - Color collection icons and labels in the sidebar
 - [Collection Icons](https://github.com/akaready/thymer-collection-icons) - Replace the inline-link arrow with each collection's or page's icon
 - [Copy Code](https://github.com/adrian18hd/thymer-copy-code-plugin) - Copy code blocks and inline code
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry with indent modes and aligned indent guides, plus tuned hover controls
 - [Font Selector](https://github.com/phildrysdale1/thymer-font-selector/) - Separate interface and note fonts
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualisation with rainbow-colored indent guides and workflowy style bulleting
 - [PDF Highlighter](https://github.com/parham-shafti/thymer-pdf-highlighter) - Turn PDF highlights into notes
+- [Status Bar Manager](https://github.com/akaready/thymer-status-bar-manager) - Show or hide individual elements of the bottom status bar
 - [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for the current page
 
 #### References & Metadata
@@ -115,13 +117,11 @@ App plugins extend the entire Thymer application with global features.
 #### Sidebar & UI
 
 - [Calendar Widget for Sidebar](https://github.com/gitdaveuk/thymer-sidebar-calendar/tree/main) - Calendar for your sidebar
-- [Collection Colors](https://github.com/akaready/thymer-collection-colors) - Color collection icons and labels in the sidebar
 - [Mac Traffic Lights](https://github.com/akaready/thymer-mac-traffic-lights) - Toggle the macOS window traffic-light buttons on or off
 - [Pinned Notes](https://github.com/gitdaveuk/pinned-notes-for-Thymer) - Pins notes to sidebar
 - [Sidebar Seperators](https://github.com/akaready/thymer-sidebar-seperators) - Movable theme-colored separators for the collections list
 - [Sidebar Tweaks](https://github.com/akaready/thymer-sidebar-tweaks) - Sidebar visibility, behavior, and layout options
 - [Sloppy](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/sidebar-widget) - Character in the sidebar whose eyes follow your cursor
-- [Status Bar Manager](https://github.com/akaready/thymer-status-bar-manager) - Show or hide individual elements of the bottom status bar
 
 #### Dev Examples
 
