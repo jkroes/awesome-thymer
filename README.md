@@ -65,7 +65,9 @@ App plugins extend the entire Thymer application with global features.
 #### Journal & Media
 
 - [Cadence](https://github.com/harpreetchima/thymer-cadence) - Daily Note into a cadence system with optional weekly, monthly, quarterly, and yearly notes
+- [Journal Day Shortcuts](https://github.com/akaready/thymer-journal-day-shortcuts) - Keyboard shortcuts for the previous/next day in the journal
 - [Journal Image Gallery](https://github.com/dantesxj/journal-image-gallery) - Renders date-matched images from one or more collections
+- [Jump Move Send](https://github.com/akaready/thymer-jump-move-send) - Jump to, move to, or send records to any journal day
 - [On This Day](https://github.com/ed-nico/thymer-on-this-day) - Shows your journal entries from this day in previous years
 - [Readwise Sync & Daily Highlights Footer](https://github.com/dantesxj/ThymerReadwiseSyncwithDailyFooter) - Sync Readwise Highlights
 - [Today's Notes](https://github.com/dantesxj/ThymerTodaysNotesFooter) - Footer on journal entries showing records whose date field matches
@@ -87,7 +89,9 @@ App plugins extend the entire Thymer application with global features.
 
 #### Text & Editor Enhancements
 
+- [Collection Icons](https://github.com/akaready/thymer-collection-icons) - Replace the inline-link arrow with each collection's or page's icon
 - [Copy Code](https://github.com/adrian18hd/thymer-copy-code-plugin) - Copy code blocks and inline code
+- [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry with indent modes and aligned indent guides, plus tuned hover controls
 - [FlowyThymer](https://github.com/ahpatel/flowyThymer) - Workflowy-style row bullets, indent guides, and active-thread highlighting; keeps native row controls visible after folding
 - [Font Selector](https://github.com/phildrysdale1/thymer-font-selector/) - Separate interface and note fonts
 - [Highlight Line](https://github.com/gitdaveuk/Highlight-Line-Thymer) - Highlight lines in different colours
@@ -104,6 +108,7 @@ App plugins extend the entire Thymer application with global features.
 - [Backlinks with Transclusion](https://github.com/gitdaveuk/minimal-backlinks-thymer) - Shows all notes linking to the open record, with context
 - [Backreferences](https://github.com/harpreetchima/thymer-backreferences) - Thymer backreferences footer plugin
 - [Bidirectional Fields](https://github.com/parham-shafti/thymer-bidirectional-fields) - Keep two page-link fields in sync as inverses
+- [Build Title from Properties](https://github.com/akaready/thymer-build-title-from-properties) - Build collection item display titles from selected property values
 - [Property Arranger](https://github.com/parham-shafti/thymer-property-arranger) - Reorder multi-value properties
 - [Property Auto-Initiator](https://github.com/parham-shafti/thymer-property-auto-initiator) - Auto populates properties on newly created records
 - [Reference Counter](https://github.com/harpreetchima/thymer-reference-counter) - Adds inline reference counters next to record references in the editor
@@ -145,10 +150,15 @@ App plugins extend the entire Thymer application with global features.
 
 - [Calendar Widget for Sidebar](https://github.com/gitdaveuk/thymer-sidebar-calendar/tree/main) - Calendar for your sidebar
 - [Coinflip](https://github.com/niklashog/Thymer-plugins/tree/main/Coinflip) - Flip a coin from the status bar
+- [Collection Colors](https://github.com/akaready/thymer-collection-colors) - Color collection icons and labels in the sidebar
 - [Dashboard Status Shortcuts](https://github.com/dantesxj/dashboard-status-shortcuts) - Unified dashboard status bar plus sidebar shortcuts to custom Dashboard views
+- [Mac Traffic Lights](https://github.com/akaready/thymer-mac-traffic-lights) - Toggle the macOS window traffic-light buttons on or off
 - [Pinned Notes](https://github.com/gitdaveuk/pinned-notes-for-Thymer) - Pins notes to sidebar
+- [Sidebar Separators](https://github.com/akaready/thymer-sidebar-separators) - Movable theme-colored separators for the collections list
+- [Sidebar Tweaks](https://github.com/akaready/thymer-sidebar-tweaks) - Sidebar visibility, behavior, and layout options
 - [Sloppy](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/sidebar-widget) - Character in the sidebar whose eyes follow your cursor
 - [Status Bar Clock](https://github.com/gitdaveuk/status-bar-clock-thymer) - Clock in the status bar
+- [Status Bar Manager](https://github.com/akaready/thymer-status-bar-manager) - Show or hide individual elements of the bottom status bar
 
 #### Dev Examples
 
